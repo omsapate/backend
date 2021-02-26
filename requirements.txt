@@ -8,3 +8,4 @@ tldextract==3.0.2
 regex==2020.10.28
 beautifulsoup4==4.9.3
 whois==0.9.7
+scikit-learn>=0.18
